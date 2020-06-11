@@ -1,0 +1,14 @@
+Number of drug-target pairs: 413840
+Number of drugs with bioactivity added by target prediction: 344
+Number of unique drugs from AE datasets with measured or predicted bioactivities: 1491
+Number of unique Uniprot IDs: 1044
+Total cells: 1491 x 1044 = 1556604
+Percentage of cells of matrix (compound-target pairs) with data (active/inactive/activity_comment): 26.586%
+Percentage of drug-target pairs with "inactive" from activity_comment: 3.019%
+Percentage of drug-target pairs with pchembl < 6 or negative prediction: 23.249%
+Percentage of drug-target pairs with pchembl >= 6 or positive prediction: 0.331%
+Percentage of drug-target pairs with both positive and negative predictions (depending on concentration): 0.012%
+Total above 4 perc check: 26.586%
+Cases with both positive and negative predictions will be processed later
+Percentage of datapoints from measured bioactivities: 13.751%
+Percentage of datapoints from prediction: 86.249%

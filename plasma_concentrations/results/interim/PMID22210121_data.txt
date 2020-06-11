@@ -1,0 +1,223 @@
+Original drug name	Original synonyms	PPB lower	PPB upper	PMID
+3-Carboxy-4-methyl-5-propyl-2-furan-propionic acid		99.0		PMID22210121
+Acenocoumarin		99.0		PMID22210121
+Acetaminophen		0.0		PMID22210121
+Alprazolam		71.0		PMID22210121
+Alprenolol		85.0		PMID22210121
+Amiloride		40.0		PMID22210121
+Amiodarone		99.98		PMID22210121
+Amobarbital		61.0		PMID22210121
+Amphotericin B		90.0		PMID22210121
+Aspirin		55.0		PMID22210121
+Atenolol		5.0		PMID22210121
+Atracurium besilate		82.0		PMID22210121
+Azapropazone		99.0		PMID22210121
+Benoxaprofen		99.0		PMID22210121
+Benzylpenicillin		65.0		PMID22210121
+Betamethasone		64.0		PMID22210121
+Bilirubin		99.9		PMID22210121
+Binedaline		96.0		PMID22210121
+Bromazepam		60.0		PMID22210121
+Budesonide		88.0		PMID22210121
+Bumetanide		99.0		PMID22210121
+Bupivacaine		95.0		PMID22210121
+Buprenorphine		96.0		PMID22210121
+Bupropion		84.0		PMID22210121
+Camptothecin		98.3		PMID22210121
+Captopril		30.0		PMID22210121
+Carbamazepine		76.0		PMID22210121
+Carbendazim		60.0	74.0	PMID22210121
+Carbenicillin		50.0		PMID22210121
+Carbenoxolone		99.0		PMID22210121
+Carboplatin		0.0		PMID22210121
+Carprofen		99.0		PMID22210121
+Cefaclor		24.7		PMID22210121
+Cefadroxil		20.0		PMID22210121
+Cefamandole		74.0		PMID22210121
+Cefazolin		87.5		PMID22210121
+Cefixime		67.0		PMID22210121
+Cefonicid		98.0		PMID22210121
+Cefoperazone		91.0		PMID22210121
+Ceforanide		80.0	82.0	PMID22210121
+Cefotaxime		38.0		PMID22210121
+Cefotetan		85.0		PMID22210121
+Cefoxitin		76.5		PMID22210121
+Cefsulodin		45.0		PMID22210121
+Ceftazidime		15.5		PMID22210121
+Ceftriaxone		93.8		PMID22210121
+Cefuroxime		31.5		PMID22210121
+Cephalexin		14.5		PMID22210121
+Cephaloridine		20.0		PMID22210121
+Cephalothin		68.0		PMID22210121
+Cephapirin		62.0		PMID22210121
+Cephradine		12.0		PMID22210121
+Cetiedil		74.0		PMID22210121
+Chlordiazepoxide		96.5		PMID22210121
+Chlorothiazide		82.3		PMID22210121
+Chlorpromazine		97.8		PMID22210121
+Chlorpropamide		96.0		PMID22210121
+Cicletanine		93.5		PMID22210121
+Cimoxatone		94.5		PMID22210121
+Clofibrate		96.5		PMID22210121
+Clofibric acid		98.0		PMID22210121
+Clometacin		99.0		PMID22210121
+Clonazepam		86.0		PMID22210121
+Clozapine		95.0		PMID22210121
+Dapsone		73.0		PMID22210121
+Desipramine		86.0		PMID22210121
+Desmethyldiazepam		97.5		PMID22210121
+Diazepam		99.0		PMID22210121
+Diclofenac		99.5		PMID22210121
+Diflunisal		99.0		PMID22210121
+Digitoxigenin		92.7		PMID22210121
+Digitoxin		93.5		PMID22210121
+Digoxin		25.0		PMID22210121
+Disopyramide		89.0		PMID22210121
+Doxazosin		98.9		PMID22210121
+Doxycycline		90.5		PMID22210121
+Duloxetine		95.0		PMID22210121
+Ethambutol		5.0		PMID22210121
+Ethinyl estradiol		95.0	98.0	PMID22210121
+Ethosuximide		0.0		PMID22210121
+Etodolac		99.1		PMID22210121
+Etoposide		96.0		PMID22210121
+Fenbufen		98.5		PMID22210121
+Fenoprofen		99.0		PMID22210121
+Fentiazac		99.5		PMID22210121
+Flucytosine		4.0		PMID22210121
+Fluindione		99.5		PMID22210121
+Flunitrazepam		79.0		PMID22210121
+Fluorouracil	5-FU	11.0		PMID22210121
+Fluoxetine		94.0		PMID22210121
+Flurazepam		96.6		PMID22210121
+Flurbiprofen		99.0		PMID22210121
+Fulvestrant		99.0		PMID22210121
+Furosemide		98.4		PMID22210121
+Fusidicacid		94.8		PMID22210121
+Gentamicin		10.0		PMID22210121
+Glipizide		98.4		PMID22210121
+Halofenate		99.5		PMID22210121
+Haloperidol		92.0		PMID22210121
+Heroin		35.0		PMID22210121
+Hexobarbital		42.0	52.0	PMID22210121
+Ibuprofen		99.0		PMID22210121
+Imipramine		92.6		PMID22210121
+Indomethacin		90.0		PMID22210121
+Indoprofen		98.0		PMID22210121
+Isotretinoin		99.9		PMID22210121
+Itanoxone		98.5		PMID22210121
+Ketoconazole		99.0		PMID22210121
+Ketoprofen		99.2		PMID22210121
+Labetalol		50.0		PMID22210121
+Levonorgestrel		37.0		PMID22210121
+Lidocaine		67.0		PMID22210121
+Lomefloxacin		10.0		PMID22210121
+Loracarbef		25.0		PMID22210121
+Loratadine		97.0		PMID22210121
+Lorazepam		91.0		PMID22210121
+Lorcainide		85.0		PMID22210121
+Lovastatin		95.0		PMID22210121
+Mefloquine		98.2		PMID22210121
+Melphalan		90.0		PMID22210121
+Mepivacaine		84.0		PMID22210121
+Methicillin		39.0		PMID22210121
+Methohexital		73.0		PMID22210121
+Methotrexate	RU486	46.0		PMID22210121
+Metoclopramide		40.0		PMID22210121
+Metocurine		35.0		PMID22210121
+Metronidazole		11.0		PMID22210121
+Midazolam		95.0		PMID22210121
+Mifepristone		98.0		PMID22210121
+Meperidine		58.0		PMID22210121
+Morphine		35.0		PMID22210121
+Moxisylyte		26.0		PMID22210121
+Nabumetone		99.0		PMID22210121
+Nadolol		20.0		PMID22210121
+Nafcillin		89.4		PMID22210121
+Nalidixic acid		90.0	94.0	PMID22210121
+Naproxen		99.4		PMID22210121
+Nicardipine		98.0	99.0	PMID22210121
+Nicergoline		95.0		PMID22210121
+Nimesulide		99.0		PMID22210121
+Norepinephrine		50.0		PMID22210121
+Nortriptyline		93.5		PMID22210121
+Novobiocin		90.0		PMID22210121
+Octreotide		65.0		PMID22210121
+Omeprazole		95.0		PMID22210121
+Oxazepam		98.4		PMID22210121
+Oxyphenbutazone		99.0		PMID22210121
+Paclitaxel	Taxol	95.0	98.0	PMID22210121
+Phenobarbital		51.0		PMID22210121
+Phenylbutazone		97.8		PMID22210121
+Phenylethylmalonamide		8.0		PMID22210121
+Phenytoin		91.0		PMID22210121
+Pindolol		51.0		PMID22210121
+Piperacillin		30.0		PMID22210121
+Pipotiazine		45.0		PMID22210121
+Piretanide		94.0		PMID22210121
+Pirprofen		99.8		PMID22210121
+Practolol		30.0		PMID22210121
+Pravastatin		43.0	48.0	PMID22210121
+Prazosin		95.0		PMID22210121
+Prednisolone		90.0	95.0	PMID22210121
+Pregnenolone		80.0		PMID22210121
+Procaine		6.0		PMID22210121
+Propanolol		87.0		PMID22210121
+Propofol		95.0	99.0	PMID22210121
+Propranolol		87.0		PMID22210121
+Quinapril		97.0		PMID22210121
+Quinidine		87.0		PMID22210121
+Quinine		93.0		PMID22210121
+Ramipril		56.0		PMID22210121
+Ribavirin		0.0		PMID22210121
+Rifabutin		85.0		PMID22210121
+Rifampin		89.0		PMID22210121
+Rimantadine		40.0		PMID22210121
+Risperidone		89.0		PMID22210121
+Salicylic acid		95.0		PMID22210121
+Selegiline		94.0		PMID22210121
+Sertraline		99.0		PMID22210121
+Simvastatin		94.0		PMID22210121
+Sotalol		17.5		PMID22210121
+Streptomycin		48.0		PMID22210121
+Sufentanil		93.0		PMID22210121
+Sulfamethoxazole		66.0		PMID22210121
+Sulfaphenazole		95.0		PMID22210121
+Sulfinpyrazone		98.3		PMID22210121
+Sulfisoxazole		91.4		PMID22210121
+Sulfobromophthalein		99.9		PMID22210121
+Sulindac		93.5		PMID22210121
+Suprofen		20.0		PMID22210121
+Tacrine		55.0		PMID22210121
+Tamoxifen		98.0		PMID22210121
+Temazepam		96.8		PMID22210121
+Temezepam	R/S	97.0		PMID22210121
+Teniposide		99.0		PMID22210121
+Terbutaline		20.0		PMID22210121
+Testosterone		60.0		PMID22210121
+Tetracycline		18.0		PMID22210121
+Tetrahydrocannabinol		95.0		PMID22210121
+Theophylline		56.0		PMID22210121
+Thiopental		82.5		PMID22210121
+Ticarcillin		65.0		PMID22210121
+Ticlopidine		96.5		PMID22210121
+Timolol		35.0		PMID22210121
+Tinoridine		92.0		PMID22210121
+Tobramycin		10.0		PMID22210121
+Tocainide		10.0		PMID22210121
+Tolazamide		97.0		PMID22210121
+Tolbutamide		96.0		PMID22210121
+Triamcinolone acetonide		40.0		PMID22210121
+Triamterene		61.0		PMID22210121
+Triazolam		90.0		PMID22210121
+Trimethoprim		41.5		PMID22210121
+Tryptophan		80.0		PMID22210121
+Tubocurarine		50.0		PMID22210121
+Urapidil		80.0		PMID22210121
+Valproic acid		93.0		PMID22210121
+Vancomycin		30.0		PMID22210121
+Venlafaxine		27.0		PMID22210121
+Verapamil		90.0		PMID22210121
+Warfarin		99.0		PMID22210121
+Zalcitabine		4.0		PMID22210121
+Zomepirac		98.5		PMID22210121

@@ -1,0 +1,1 @@
+Data sources (%s of retrieved measurements before taking medians) after overlapping with AE compounds: {'BindingDB Database': '0.062', 'Deposited Supplementary Bioactivity Data': '0.001', 'DrugMatrix': '82.159', 'K4DD Project': '0.004', 'Patent Bioactivity Data': '0.041', 'PubChem BioAssays': '7.022', 'Scientific Literature': '10.419', 'TP-search Transporter Database': '0.291'}

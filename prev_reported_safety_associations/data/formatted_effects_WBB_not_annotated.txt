@@ -1,0 +1,265 @@
+Formatted effect
+A1 adrenergic activation increased
+Abnormal face
+Abnormal mouth movements
+Abnormal pulse
+Abuse liability
+Abuse potential
+Acid secretion decreased
+Activation of dopamine-mediated behaviour
+Addictive psychostimulation
+Adrenergic hyperactivity increased
+Adrenocorticotropic hormone increased
+Adrenocoticotropic hormone increased
+Aggression decreased
+Airway responsiveness to antigens increased
+Aldosterone secretion
+Aldosterone secretion increased
+Allergic conditions
+Allergic responses decreased
+Allergic responses of flare
+Allergic responses of flush
+Allergic responses of wheal
+Analgesia
+Androgenicity in females
+Anti-emetic effects
+Anti-inflammatory activities
+Anti-inflammatory activity
+Anti-mitogenic effects
+Anticonvulsant
+Antidepressant
+Antidepressant-like activities
+Anxiety decreased
+Anxiogenic
+Anxiolysis
+Appetite decreased
+Arousal
+Arousal increased
+Arrhythmia decreased
+Atheroschlerosis
+Atrial refractory period increased
+Attention decreased
+Blood pressure changes
+Blood pressure when combined with amines such as tyramine increased
+Blood volume decreased
+Body weight decreased
+Body weight increased
+Bone marrow erythropoiesis decreased
+Bone metastasis
+Bronchial constriction increased
+Bronchial secretion
+Bronchial secretions increased
+Bronchoconstriction decreased
+Bronchodilation
+Cardiac action potential duration decreased
+Cardiac anomaly
+Cardiac conduction decreased
+Cardiac conduction decreased (PR interval)
+Cardiac contractility decreased
+Cardiac contractility increased
+Cardiac lesions
+Cardiac positive ionotropy
+Cardiovascular effects
+Cardiovascular malformations
+Cardiovascular performance decreased
+Causes initial vasodepression
+Cell proliferation
+Cell proliferation (for example smooth muscle & mesangial cells)
+Cell proliferation increased
+Centrilobular liver congestion
+Cerebral artery vasoconstriction
+Cerebral complications
+Cholelethiasis
+Chromosome 22 deletions
+Cognitive deficit
+Cognitive function decreased
+Convulsions decreased
+Coordination disorders
+Coronary vasodilation
+Cortisol & growth hormone secretion
+Cortisol secretion
+Craniofacial abnormalities
+Defecation increased
+Delayed/absent sexual maturity
+Disoriented behaviour
+Drinking decreased
+Drinking increased
+Drug-drug interaction potential
+Drug-drug interactions
+Eating decreased
+Eating increased
+Effects on glucose homeostasis
+Effects on muscular functions
+Electrolyte disturbances
+Energy homeostasis
+Especially during embryonic development
+Exercise stress cardiovascular performance decreased
+Extreme arousal
+Fibrotic valvular heart disease
+Food intake decreased
+Frothing
+GH release
+Gallbladder contraction
+Gastric acid secretion decreased
+Gastric acid secretion increased
+Gastric emptying
+Gastric emptying decreased
+Gastric emptying increased
+Gastrointestinal constriction
+Gastrointestinal hemorrhagic erosion/ulcer
+Gastrointestinal motility decreased
+Gastrointestinal motility increased
+Gastrointestinal spasm
+Gastrointestinal symptoms
+Gastrointestinal transit decreased
+Gastrointestinal transit increased
+Glomerular & tubulointerstitial structural injury
+Glucagon release
+Glycogenolysis increased
+Gonadotrophic hormones decreased
+Growth hormone secretion
+Gut motility decreased
+Hard stool
+Headaches
+Heart weight increased
+Hepatocytic vacuolar degeneration
+Hypophosphatemia
+Impact on various aspects of sexual function
+Impaired social interactions
+Incontinence decreased
+Increased muscular blood flow
+Increased skeletal blood flow
+Inflammation decreased
+Insulin release decreased
+Insulin secretion increased
+Interferes with ocular accommodation
+Interstitial cell infiltration
+Intestinal transit decreased
+Intestinal transit increased
+Ischemic brain injury decreased
+Leukocyte activation decreased
+Lipid redistribution
+Lipolysis
+Liver complications
+Locomotion decreased
+Locomotor activation
+Locomotor activity decreased
+Locomotor activity increased
+Memory decreased
+Memory increased
+Might insulin secretion decreased
+Migration
+Mitosis decreased
+Motor strength decreased
+Muscle mass decreased
+Muscle mass increased
+Muscle relaxation
+Myocardiac fibrosis
+Natriuresis
+Negative chronotropy
+Negative inotropy
+Nervousness (tremors & agitation)
+Neurodegeneration
+Neutophil collection within the sinusoids
+Nociception increased
+Noradrenaline release decreased
+Oligoamnios
+Orthostatic hypotonia
+Osteoblast proliferation
+Other serotonin increased -mediated effects
+PR interval decreased
+PR interval increased
+Pain decreased
+Pancreatic enzyme secretion
+Pancreatic exocrine secretions decreased
+Parkinsonian symptoms (tremors)
+Penile erection
+Peripheral vasodilation
+Pituitary hormone secretion decreased
+Pituitary hormone secretions decreased
+Plasma volume increased
+Platelet aggregation
+Pleural effusions
+Positive chronotropic effects
+Positive inotropic effect
+Positive inotropic effects
+Positive inotropy
+Possible cardiac effects
+Possible shortening of QT interval of ECG
+Possible thymus atrophy
+Potential for stimulation of platelet aggregation
+Potential hearing impairment
+Potential memory impairments
+Potentially anxiogenic
+Proconvulsant
+Prolongation of QT interval of ECG
+Prolonged QRS interval of ECG
+Proximal tubular degeneration
+Psychomimetic effects
+Psychosis
+Psychosis (schizophrenia-like)
+Psychostimulation
+Pupil constriction
+Pupil diameter decreased
+Pupil diameter increased
+Pupil dilation
+Pupillary reflex decreased
+QRS complex increased
+QT interval (electrocardiogram) prolongation
+QTc interval increased
+Reduced rapid eye movement sleep
+Reflex
+Reflex decreased
+Relaxation of colon
+Relaxation of oesophagus
+Renal dysfunction
+Renal vasoconstriction
+Renin release increased
+Respiratory secretions increased
+Salivation decreased
+Scratching
+Secretory functions
+Severe-combined immunodeficiency-like immunodeficiency
+Sleep disturbances
+Sleep increased
+Sleep induction
+Slowed cardiac conduction
+Smooth muscle contraction
+Smooth muscle tone decreased
+Sodium excretion increased
+Spermatogenesis decreased
+Stimulates autonomic cardiovascular functions
+Stimulates gastrointestinal functions
+Suicidal intent
+Survival decreased
+Sympathetic neurotransmission decreased
+T cell activation
+T cell inhibition
+Testicular degeneration
+Thrombocytopaenia
+Thymic hypoplasia
+Tingling/weakness in limbs
+Tongue swelling
+Tremors
+Triglycerides increased
+Tubular Na+ resorption
+Upper gastrointestinal transit decreased
+Urinary bladder contractions increased
+Urinary output increased
+Urinary potassium excretion decreased
+Urinary smooth muscle constriction
+Urinary sodium excretion decreased
+Urinary sodium excretion increased
+Urine excretion decreased
+Urine excretion increased
+Uterine constriction increased
+Uterine motility decreased
+Vagal effects
+Vascular constriction increased
+Vascular hypertrophy
+Vascular relaxation
+Vasodilation
+Vasopressor
+Vegetative ganglionic functions
+Weight loss increased
+Wound repair decreased

@@ -1,0 +1,1 @@
+Single notebook only for analysing the effect of Propensity Score Matching (PSM) on indication bias. The drug-AE associations quantified by the Proportional Reporting Ratio derived after using PSM are compared to the associations derived without PSM. The only results from this notebook are figures.

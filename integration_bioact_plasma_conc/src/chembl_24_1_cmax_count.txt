@@ -1,0 +1,6 @@
+max_phase	count(distinct parent_molregno)
+0	100
+1	5
+2	15
+3	21
+4	185

@@ -1,0 +1,278 @@
+Formatted effect	MedDRA PT code	MedDRA PT	Other level	Other level code	Other level term	Parsing mistake	Comments
+A1 adrenergic activation increased							
+Abnormal face	10066054	Dysmorphism					
+Abnormal mouth movements	10013916	Dyskinesia					
+Abnormal pulse	10037466	Pulse abnormal					
+Abuse liability	10013654	Drug abuse					
+Abuse potential	10013654	Drug abuse					
+Acid secretion decreased	10060040	Gastric pH increased					
+Activation of dopamine-mediated behaviour							
+Addictive psychostimulation	10013663	Drug dependence					
+Adrenergic hyperactivity increased							
+Adrenocorticotropic hormone increased	10005452	Blood corticotrophin decreased					
+Adrenocoticotropic hormone increased	10005452	Blood corticotrophin decreased					
+Aggression decreased							
+Airway responsiveness to antigens increased							
+Aldosterone secretion	10005296	Blood aldosterone increased					
+Aldosterone secretion increased	10005296	Blood aldosterone increased					
+Allergic conditions	10020751	Hypersensitivity					
+Allergic responses decreased							
+Allergic responses of flare	10020751	Hypersensitivity					
+Allergic responses of flush	10046735	Urticaria					
+Allergic responses of wheal	10016825	Flushing					
+Analgesia							
+Androgenicity in females							
+Anti-emetic effects							
+Anti-inflammatory activities							
+Anti-inflammatory activity							
+Anti-mitogenic effects							
+Anticonvulsant							
+Antidepressant							
+Antidepressant-like activities							
+Anxiety decreased							
+Anxiogenic	10002855	Anxiety					
+Anxiolysis							
+Appetite decreased	10061428	Decreased appetite					
+Arousal	10080831	Hyperarousal					
+Arousal increased	10080831	Hyperarousal					
+Arrhythmia decreased							
+Atheroschlerosis	10003210	Arteriosclerosis					
+Atrial refractory period increased							
+Attention decreased	10013496	Disturbance in attention					
+Blood pressure changes	10005750	Blood pressure increased					
+Blood pressure changes	10005734	Blood pressure decreased					
+Blood pressure when combined with amines such as tyramine increased	10005750	Blood pressure increased					
+Blood volume decreased	10047689	Volume blood decreased					
+Body weight decreased	10047895	Weight decreased					
+Body weight increased	10047899	Weight increased					
+Bone marrow erythropoiesis decreased							
+Bone metastasis	10027452	Metastases to bone					
+Bronchial constriction increased	10006482	Bronchospasm					
+Bronchial secretion	10062530	Increased bronchial secretion					
+Bronchial secretions increased	10062530	Increased bronchial secretion					
+Bronchoconstriction decreased							
+Bronchodilation							
+Cardiac action potential duration decreased							
+Cardiac anomaly	10052088	Foetal cardiac disorder					context developmental toxicity
+Cardiac anomaly	10019273	Heart disease congenital					context developmental toxicity
+Cardiac conduction decreased			HLT	10000032	Cardiac conduction disorders		
+Cardiac conduction decreased (PR interval)			HLT	10000032	Cardiac conduction disorders		
+Cardiac contractility decreased	10007554	Cardiac failure					
+Cardiac contractility increased							
+Cardiac lesions	10061200	Heart injury					
+Cardiac positive ionotropy							
+Cardiovascular effects							
+Cardiovascular malformations			HLGT	10007510	Cardiac and vascular disorders congenital		
+Cardiovascular performance decreased							
+Causes initial vasodepression							
+Cell proliferation							
+Cell proliferation (for example smooth muscle & mesangial cells)							
+Cell proliferation increased							
+Centrilobular liver congestion	10019645	Hepatic congestion					
+Cerebral artery vasoconstriction	10059109	Cerebral vasoconstriction					
+Cerebral complications			HLT	10052634	Cerebral disorders congenital		
+Cholelethiasis	10008629	Cholelithiasis					
+Chromosome 22 deletions							
+Cognitive deficit	10057668	Cognitive disorder					
+Cognitive function decreased	10057668	Cognitive disorder					
+Convulsions decreased							
+Coordination disorders	10010947	Coordination abnormal					
+Coronary vasodilation	10047141	Vasodilatation					
+Cortisol & growth hormone secretion	10005574	Blood growth hormone increased					
+Cortisol & growth hormone secretion	10011207	Cortisol increased					
+Cortisol secretion	10011207	Cortisol increased					
+Craniofacial abnormalities	10074180	Craniofacial deformity					
+Defecation increased	10017367	Frequent bowel movements					
+Delayed/absent sexual maturity	10012205	Delayed puberty					
+Disoriented behaviour	10013395	Disorientation					
+Drinking decreased			HLT	10052559	Fluid intake decreased		
+Drinking increased			HLT	10016801	Fluid intake increased		
+Drug-drug interaction potential	10013710	Drug interaction					
+Drug-drug interactions	10013710	Drug interaction					
+Eating decreased	10063743	Hypophagia					
+Eating increased	10020710	Hyperphagia					
+Effects on glucose homeostasis							
+Effects on muscular functions			HLGT	10028302	Muscle disorders		
+Electrolyte disturbances	10061014	Blood electrolytes abnormal					
+Energy homeostasis							
+Especially during embryonic development						y	
+Exercise stress cardiovascular performance decreased							
+Extreme arousal	10080831	Hyperarousal					
+Fibrotic valvular heart disease	10061406	Cardiac valve disease					
+Food intake decreased	10063743	Hypophagia					
+Frothing	10062654	Foaming at mouth					
+GH release	10005574	Blood growth hormone increased					
+Gallbladder contraction							
+Gastric acid secretion decreased	10060040	Gastric pH increased					
+Gastric acid secretion increased	10060041	Gastric pH decreased					
+Gastric emptying							
+Gastric emptying decreased	10021518	Impaired gastric emptying					
+Gastric emptying increased							
+Gastrointestinal constriction							
+Gastrointestinal hemorrhagic erosion/ulcer	10017955	Gastrointestinal haemorrhage					
+Gastrointestinal hemorrhagic erosion/ulcer	10060709	Gastrointestinal erosion					
+Gastrointestinal hemorrhagic erosion/ulcer	10061459	Gastrointestinal ulcer					
+Gastrointestinal motility decreased	10052105	Gastrointestinal hypomotility					
+Gastrointestinal motility increased	10052402	Gastrointestinal hypermotility					
+Gastrointestinal spasm	10017999	Gastrointestinal pain					
+Gastrointestinal symptoms			HLGT	10018012	Gastrointestinal signs and symptoms		
+Gastrointestinal transit decreased	10074218	Intestinal transit time increased					
+Gastrointestinal transit increased	10074598	Intestinal transit time decreased					
+Glomerular & tubulointerstitial structural injury	10061481	Renal injury					
+Glomerular & tubulointerstitial structural injury	10078933	Renal tubular injury					
+Glucagon release	10005551	Blood glucagon increased					
+Glycogenolysis increased							
+Gonadotrophic hormones decreased	10005562	Blood gonadotrophin decreased					
+Growth hormone secretion	10005574	Blood growth hormone increased					
+Gut motility decreased	10052105	Gastrointestinal hypomotility					
+Hard stool	10016101	Faeces hard					
+Headaches	10019211	Headache					
+Heart weight increased							
+Hepatocytic vacuolar degeneration							
+Hypophosphatemia	10021058	Hypophosphataemia					
+Hypophosphatemia	10049471	Blood phosphorus decreased					
+Impact on various aspects of sexual function	10040477	Sexual dysfunction					
+Impaired social interactions	10061108	Disturbance in social behaviour					
+Incontinence decreased							
+Increased muscular blood flow							
+Increased skeletal blood flow							
+Inflammation decreased							
+Insulin release decreased	10052341	Impaired insulin secretion					
+Insulin release decreased	10005613	Blood insulin decreased					
+Insulin secretion increased	10005614	Blood insulin increased					
+Interferes with ocular accommodation	10000389	Accommodation disorder					
+Interstitial cell infiltration							
+Intestinal transit decreased	10074218	Intestinal transit time increased					
+Intestinal transit increased	10074598	Intestinal transit time decreased					
+Ischemic brain injury decreased							
+Leukocyte activation decreased							
+Lipid redistribution	10048474	Fat redistribution					
+Lipolysis							
+Liver complications	10067125	Liver injury					
+Locomotion decreased							
+Locomotor activation							
+Locomotor activity decreased							
+Locomotor activity increased							
+Memory decreased	10027175	Memory impairment					
+Memory increased							
+Might insulin secretion decreased	10052341	Impaired insulin secretion					
+Might insulin secretion decreased	10005613	Blood insulin decreased					
+Migration							
+Mitosis decreased							
+Motor strength decreased							
+Muscle mass decreased	10028289	Muscle atrophy					
+Muscle mass increased	10028311	Muscle hypertrophy					
+Myocardiac fibrosis	10028594	Myocardial fibrosis					
+Natriuresis	10046672	Urine sodium increased					
+Negative chronotropy	10019301	Heart rate decreased					
+Negative inotropy	10007554	Cardiac failure					
+Nervousness (tremors & agitation)	10029216	Nervousness					
+Nervousness (tremors & agitation)	10001497	Agitation					
+Nervousness (tremors & agitation)	10044565	Tremor					
+Neurodegeneration	10053643	Neurodegenerative disorder					
+Neutophil collection within the sinusoids							
+Nociception increased	10033371	Pain					
+Noradrenaline release decreased	10029750	Norepinephrine decreased					
+Oligoamnios	10030289	Oligohydramnios					
+Osteoblast proliferation							
+PR interval decreased	10014374	Electrocardiogram PR shortened					
+PR interval increased	10053657	Electrocardiogram PR prolongation					
+Pain decreased							
+Pancreatic enzyme secretion	10061900	Pancreatic enzymes increased					
+Pancreatic exocrine secretions decreased	10079281	Pancreatic failure					
+Pancreatic exocrine secretions decreased	10062517	Exocrine pancreatic function test abnormal					
+Parkinsonian symptoms (tremors)	10044565	Tremor					
+Parkinsonian symptoms (tremors)	10034010	Parkinsonism					
+Penile erection	10015120	Erection increased					
+Peripheral vasodilation	10047141	Vasodilatation					
+Pituitary hormone secretion decreased	10021067	Hypopituitarism					
+Pituitary hormone secretions decreased	10021067	Hypopituitarism					
+Plasma volume increased	10047690	Volume blood increased					
+Platelet aggregation	10035518	Platelet aggregation increased					
+Pleural effusions	10035598	Pleural effusion					
+Positive chronotropic effects	10019303	Heart rate increased					
+Positive inotropic effect							
+Positive inotropic effects							
+Positive inotropy							
+Possible cardiac effects			SOC	10007541	Cardiac disorders		
+Possible cardiac effects	10019273	Heart disease congenital					context: especially during embryonic development
+Possible cardiac effects	10052088	Foetal cardiac disorder					context: especially during embryonic development
+Possible shortening of QT interval of ECG	10014388	Electrocardiogram QT shortened					
+Possible thymus atrophy	10061381	Thymus disorder					
+Potential for stimulation of platelet aggregation	10035518	Platelet aggregation increased					
+Potential hearing impairment	10048865	Hypoacusis					
+Potential memory impairments	10048865	Hypoacusis					
+Potentially anxiogenic	10002855	Anxiety					
+Proconvulsant	10039906	Seizure					
+Prolongation of QT interval of ECG	10014387	Electrocardiogram QT prolonged					
+Prolonged QRS interval of ECG	10014380	Electrocardiogram QRS complex prolonged					
+Proximal tubular degeneration	10038536	Renal tubular atrophy					
+Psychomimetic effects	10061920	Psychotic disorder					
+Psychosis	10061920	Psychotic disorder					
+Psychosis (schizophrenia-like)	10061920	Psychotic disorder					
+Psychostimulation							
+Pupil constriction	10027646	Miosis					
+Pupil diameter decreased	10027646	Miosis					
+Pupil diameter increased	10028521	Mydriasis					
+Pupil dilation	10028521	Mydriasis					
+Pupillary reflex decreased	10037532	Pupillary reflex impaired					
+QRS complex increased	10014380	Electrocardiogram QRS complex prolonged					
+QT interval (electrocardiogram) prolongation	10014387	Electrocardiogram QT prolonged					
+QTc interval increased	10014387	Electrocardiogram QT prolonged					
+Reduced rapid eye movement sleep	10037841	Rapid eye movements sleep abnormal					
+Reflex							
+Reflex decreased	10021089	Hyporeflexia					
+Relaxation of colon							
+Relaxation of oesophagus							
+Renal dysfunction	10062237	Renal impairment					
+Renal vasoconstriction							
+Renin release increased	10038559	Renin increased					
+Respiratory secretions increased	10062530	Increased bronchial secretion					
+Salivation decreased	10003068	Aptyalism					
+Scratching	10039737	Scratch					
+Secretory functions							
+Severe-combined immunodeficiency-like immunodeficiency							
+Sleep disturbances	10040984	Sleep disorder					
+Sleep increased	10020765	Hypersomnia					
+Sleep induction							
+Slowed cardiac conduction			HLT	10000032	Cardiac conduction disorders		
+Smooth muscle contraction							
+Sodium excretion increased	10046672	Urine sodium increased					
+Spermatogenesis decreased	10003883	Azoospermia					
+Spermatogenesis decreased	10041493	Spermatogenesis abnormal					
+Stimulates autonomic cardiovascular functions							
+Stimulates gastrointestinal functions							
+Suicidal intent	10042458	Suicidal ideation					
+Survival decreased	10011906	Death					
+Sympathetic neurotransmission decreased							
+T cell activation							
+T cell inhibition							
+Testicular degeneration	10043306	Testicular disorder					
+Thrombocytopaenia	10035528	Platelet count decreased					
+Thymic hypoplasia	10052645	Thymus hypoplasia					
+Tingling/weakness in limbs	10028372	Muscular weakness					
+Tingling/weakness in limbs	10033775	Paraesthesia					
+Tongue swelling	10042727	Swollen tongue					
+Tremors	10044565	Tremor					
+Triglycerides increased	10005839	Blood triglycerides increased					
+Tubular Na+ resorption	10046671	Urine sodium decreased					
+Upper gastrointestinal transit decreased	10074598	Intestinal transit time decreased					
+Urinary bladder contractions increased							
+Urinary output increased	10059896	Urine output increased					
+Urinary potassium excretion decreased	10046662	Urine potassium decreased					
+Urinary smooth muscle constriction							
+Urinary sodium excretion decreased	10046671	Urine sodium decreased					
+Urinary sodium excretion increased	10046672	Urine sodium increased					
+Urine excretion decreased	10059895	Urine output decreased					
+Urine excretion increased	10059896	Urine output increased					
+Uterine constriction increased	10046823	Uterine spasm					
+Uterine motility decreased	10046792	Uterine hypotonus					
+Vagal effects							
+Vascular constriction increased	10047139	Vasoconstriction					
+Vascular hypertrophy							
+Vascular relaxation							
+Vasodilation	10047141	Vasodilatation					
+Vasopressor	10047139	Vasoconstriction					
+Vegetative ganglionic functions							
+Weight loss increased	10047895	Weight decreased					
+Wound repair decreased	10021519	Impaired healing					

@@ -1,0 +1,1 @@
+Compare the significant AEs from FAERS (post-marketing) with those reported in SIDER (mostly clinical trials) in terms of System Organ Classes of the Adverse Events, overlap in AEs for the same drugs, and overlap in unique AEs reported. Produces a range of figures and some txt files with counts.

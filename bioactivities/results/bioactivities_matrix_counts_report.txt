@@ -1,0 +1,9 @@
+Number of drug-target pairs: 56909
+Number of unique drugs from AE datasets with bioactivities: 1147
+Number of unique Uniprot IDs: 1044
+Total cells: 1147 x 1044 = 1197468
+Percentage of cells of matrix (compound-target pairs) with data (active/inactive/activity_comment): 4.752%
+Percentage of drug-target pairs with "inactive" from activity_comment: 3.924%
+Percentage of drug-target pairs with pchembl < 6: 0.509%
+Percentage of drug-target pairs with pchembl >= 6: 0.320%
+Total last 3 percentages check: 4.752%

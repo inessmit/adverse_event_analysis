@@ -1,0 +1,5 @@
+Datapoints in all SIDER all_se (before mapping): 1556 unique stereo_stich ids, 4251 unique AEs (PTs)
+Datapoints in all SIDER all_se (mapped): 1219 unique stereo_stich ids, 4054 unique AEs (PTs)
+Datapoints in clinical-assigned SIDER (mapped): 1041 unique stereo_stich ids, 2858 unique AEs (PTs)
+Number of side effects (from clinical mapped) excluded because they had fewer than 5 drugs: 1727
+Datapoints in clinical-assigned SIDER (mapped) after excluding side effects without 5 drugs (used to make ae pickle): 1040 unique stereo_stich ids, 1131 unique AEs (PTs)

@@ -1,0 +1,1 @@
+Extracts the adverse events with proportional reporting ratio (PRR) => 2 or 3 from the results files in 'psm_aeolus' and saves them into a single pickle.

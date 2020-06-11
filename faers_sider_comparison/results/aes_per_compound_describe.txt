@@ -1,0 +1,67 @@
+
+Number of AEs per compound (FAERS):
+count    1263.000000
+mean       57.165479
+std        84.559090
+min         1.000000
+25%         8.000000
+50%        26.000000
+75%        65.000000
+max       893.000000
+dtype: float64
+median: 26.0
+Number of AEs per compound (SIDER):
+count    1027.000000
+mean       46.079844
+std        51.738165
+min         1.000000
+25%        10.000000
+50%        29.000000
+75%        62.000000
+max       388.000000
+dtype: float64
+median: 29.0
+Number of AEs per compound (FAERS):
+count    1263.000000
+mean       57.165479
+std        84.559090
+min         1.000000
+25%         8.000000
+50%        26.000000
+75%        65.000000
+max       893.000000
+dtype: float64
+median: 26.0
+Number of AEs per compound (SIDER):
+count    1027.000000
+mean       46.079844
+std        51.738165
+min         1.000000
+25%        10.000000
+50%        29.000000
+75%        62.000000
+max       388.000000
+dtype: float64
+median: 29.0
+Number of AEs per compound (FAERS):
+count    1263.000000
+mean       57.165479
+std        84.559090
+min         1.000000
+25%         8.000000
+50%        26.000000
+75%        65.000000
+max       893.000000
+dtype: float64
+median: 26.0
+Number of AEs per compound (SIDER):
+count    1027.000000
+mean       46.079844
+std        51.738165
+min         1.000000
+25%        10.000000
+50%        29.000000
+75%        62.000000
+max       388.000000
+dtype: float64
+median: 29.0

@@ -1,0 +1,238 @@
+Row ID	PT	PT Code
+Abdominal cramps	Abdominal pain	10000081
+Abdominal distension	Abdominal distension	10000060
+Abdominal pain	Abdominal pain	10000081
+Abdominal pain hypersenstivity	Abdominal pain	10000081
+Acidosis	Acidosis	10000486
+Acne	Acne	10000496
+Aggression increased	Aggression	10001488
+Agitation	Agitation	10001497
+Allergic inflammation	Inflammation	10061218
+Anemia	Anaemia	10002034
+Anterograde amnesia	Anterograde amnesia	10002711
+Anxiety	Anxiety	10002855
+Anxiety increased	Anxiety	10002855
+Apnea	Apnoea	10002974
+Apnoea	Apnoea	10002974
+Arteritis	Arteritis	10003230
+Ataxia	Ataxia	10003591
+Atherothrombosis	Arterial thrombosis	10003178
+Atrial fibrillation	Atrial fibrillation	10003658
+Atrioventricular block	Atrioventricular block	10003671
+Autonomic dysfunction	Autonomic nervous system imbalance	10003840
+Bloating	Abdominal distension	10000060
+Blood calcium decreased	Blood calcium decreased	10005395
+Blood glucose decreased	Blood glucose decreased	10005555
+Blood glucose increased	Blood glucose increased	10005557
+Blood insulin decreased	Blood insulin decreased	10005613
+Blood insulin increased	Blood insulin increased	10005614
+Blood phosphate decreased	Blood phosphorus decreased	10049471
+Blood potassium decreased	Blood potassium decreased	10005724
+Blood pressure decreased	Blood pressure decreased	10005734
+Blood pressure increased	Blood pressure increased	10005750
+Blurred vision	Vision blurred	10047513
+Body temperature decreased	Body temperature decreased	10005910
+Body temperature increased	Body temperature increased	10005911
+Bone mass decreased	Bone density decreased	10049470
+Bone pain	Bone pain	10006002
+Bradycardia	Bradycardia	10006093
+Breast carcinoma increased	Breast cancer	10006187
+Bronchoconstriction	Bronchospasm	10006482
+Bronchoconstriction increased	Bronchospasm	10006482
+Bronchorrhea	Increased bronchial secretion	10062530
+Bronchospasm	Bronchospasm	10006482
+Bronchospasm increased	Bronchospasm	10006482
+Cardiac arrest increased	Cardiac arrest	10007515
+Cardiac arrhythmia	Arrhythmia	10003119
+Cardiac hypertrophy	Cardiac hypertrophy	10007572
+Cardiac ischemia	Myocardial ischaemia	10028600
+Cardiac ischemia (block)	Myocardial ischaemia	10028600
+Cardiac output decreased	Cardiac output decreased	10007595
+Cardiac output increased	Cardiac output increased	10007596
+Cardiac valvulopathy	Cardiac valve disease	10061406
+Catalepsy	Waxy flexibility	10047853
+Causes sedation	Sedation	10039897
+Causes vasoconstriction (venous)	Vasoconstriction	10047139
+Centrally blood pressure decreased	Blood pressure decreased	10005734
+Cholestasis	Cholestasis	10008635
+Chronic heart failure	Cardiac failure chronic	10007558
+Cleft palate	Cleft palate	10009269
+Coma	Coma	10010071
+Confusion	Confusional state	10010305
+Constipation	Constipation	10010774
+Convulsion	Seizure	10039906
+Convulsions	Seizure	10039906
+Convulsions increased	Seizure	10039906
+Coronary artery vasoconstriction	Vasoconstriction	10047139
+Cough	Cough	10011224
+D1 central nervous system stimulation increased	Central nervous system stimulation	10061444
+Deafness	Deafness	10011878
+Death	Death	10011906
+Delirium	Delirium	10012218
+Depression	Depression	10012378
+Development of gallstones increased	Cholelithiasis	10008629
+Diarrhea	Diarrhoea	10012735
+Diarrhea/constipation	Diarrhoea	10012735
+Diarrhea/constipation	Constipation	10010774
+Dizziness	Dizziness	10013573
+Drowsiness	Somnolence	10041349
+Drug abuse/dependence	Drug abuse	10013654
+Drug abuse/dependence	Dependence	10012335
+Dry mouth	Dry mouth	10013781
+Dyskinesia	Dyskinesia	10013916
+Dyskinesia increased	Dyskinesia	10013916
+Dyspepsia	Dyspepsia	10013946
+Dysphoria	Dysphoria	10013954
+Dyspnea	Dyspnoea	10013968
+Dystonia	Dystonia	10013983
+Edema	Oedema	10030095
+Emesis	Vomiting	10047700
+Endometrial thickening	Endometrial thickening	10056432
+Enhanced mediator release could asthma increased	Asthma	10003553
+Euphoria	Euphoric mood	10015535
+Exhaustion	Fatigue	10016256
+Facial flushing	Flushing	10016825
+Facial swelling	Swelling face	10042682
+Fainting	Syncope	10042772
+Fatigue	Fatigue	10016256
+Female fertility decreased	Infertility	10021926
+Flatulence	Flatulence	10016766
+Flushing	Flushing	10016825
+Foot drop	Peroneal nerve palsy	10034701
+Gas	Flatulence	10016766
+Gastric bleeding	Gastric haemorrhage	10017788
+Glaucoma	Glaucoma	10018304
+Gynecomastia	Gynaecomastia	10018800
+Hallucinations	Hallucination	10019063
+Headache	Headache	10019211
+Heart attack	Myocardial infarction	10028596
+Heart failure	Cardiac failure	10007554
+Heart failure increased	Cardiac failure	10007554
+Heart rate decreased	Heart rate decreased	10019301
+Heart rate increased	Heart rate increased	10019303
+Hemolysis	Haemolysis	10018910
+Hostility increased	Hostility	10020400
+Hot flashes	Hot flush	10060800
+Hyperglycaemia	Hyperglycaemia	10020635
+Hyperreflexia	Hyperreflexia	10020745
+Hypertension	Hypertension	10020772
+Hypertension heart failure increased	Hypertension	10020772
+Hypertension heart failure increased	Cardiac failure	10007554
+Hyperthermia	Hyperthermia	10020843
+Hypervigilance	Hypervigilance	10048533
+Hypocalcaemia	Hypocalcaemia	10020947
+Hypocalvaria	Hypocalvaria	10073670
+Hypoglycaemia	Hypoglycaemia	10020993
+Hypoglycemia	Hypoglycaemia	10020993
+Hyponatraemia	Hyponatraemia	10021036
+Hypotension	Hypotension	10021097
+Hypothermia	Hypothermia	10021113
+Immunosuppression	Immunosuppression	10062016
+Impotence	Erectile dysfunction	10061461
+Increased bronchospasm	Bronchospasm	10006482
+Inflammation	Inflammation	10061218
+Inflammation increased	Inflammation	10061218
+Insomnia	Insomnia	10022437
+Insulin resistance	Insulin resistance	10022489
+Intrauterine growth retardation	Foetal growth restriction	10070531
+Irritability	Irritability	10022998
+Ischaemic stroke	Ischaemic stroke	10061256
+Ischemic colitis	Colitis ischaemic	10009895
+Ischemic stroke	Ischaemic stroke	10061256
+Juxtaglomerular cell hyperplasia	Bartter's syndrome	10050839
+Lacrimation	Lacrimation increased	10023644
+Left ventricular hypertrophy	Left ventricular hypertrophy	10049773
+Limb defects	Limb malformation	10024500
+Liver failure	Hepatic failure	10019663
+Long QT syndrome	Long QT syndrome	10024803
+Lupus-like syndrome	Lupus-like syndrome	10050551
+Mastodynia	Breast pain	10006298
+Mechanical intestinal allodynia	Allodynia	10053552
+Memory impairment	Memory impairment	10027175
+Might cause vasoconstriction	Vasoconstriction	10047139
+Miosis	Miosis	10027646
+Mood change	Mood altered	10027940
+Muscle cramps	Muscle spasms	10028334
+Muscle tremor	Tremor	10044565
+Muscle wasting	Muscle atrophy	10028289
+Mydriasis	Mydriasis	10028521
+Myocardial fibrosis	Myocardial fibrosis	10028594
+Myocardial hypertrophy	Cardiac hypertrophy	10007572
+Myocardial infarction	Myocardial infarction	10028596
+Myoclonus	Myoclonus	10028622
+Nausea	Nausea	10028813
+Nervousness	Nervousness	10029216
+Neurotoxicity	Neurotoxicity	10029350
+Nightmares	Nightmare	10029412
+Oedema	Oedema	10030095
+Orthostatic hypotension	Orthostatic hypotension	10031127
+Osteoporosis	Osteoporosis	10031282
+Pain	Pain	10033371
+Pain increased	Pain	10033371
+Palpitation	Palpitations	10033557
+Palpitations	Palpitations	10033557
+Paralysis	Paralysis	10033799
+Paresthesia	Paraesthesia	10033775
+Parkinsonism	Parkinsonism	10034010
+Peripheral neuropathy	Neuropathy peripheral	10029331
+Peripherally heart failure increased	Cardiac failure	10007554
+Persistent patent ductus arteriosus	Patent ductus arteriosus	10034130
+Plasma potassium decreased	Blood potassium decreased	10005724
+Plasma renin decreased	Renin decreased	10038557
+Platelet aggregation decreased	Platelet aggregation decreased	10035517
+Platelet aggregation increased	Platelet aggregation increased	10035518
+Platelets decreased	Platelet count decreased	10035528
+Poor concentration	Disturbance in attention	10013496
+Possible heart rate increased	Heart rate increased	10019303
+Potential cardiac valvulopathy	Cardiac valve disease	10061406
+Potential for arrhythmia	Arrhythmia	10003119
+Prostate carcinoma increased	Prostate cancer	10060862
+Ptosis	Eyelid ptosis	10015995
+Pulmonary bleeding	Pulmonary haemorrhage	10037394
+Pulmonary congestion	Pulmonary congestion	10037368
+Pulmonary hemorrhage	Pulmonary haemorrhage	10037394
+Pulmonary hypertension	Pulmonary hypertension	10037400
+Pulmonary hypoplasia	Pulmonary hypoplasia	10037407
+Pulmonary left ventricular hypertrophy	Left ventricular hypertrophy	10049773
+Renal failure	Renal failure	10038435
+Respiratory depression	Respiratory depression	10038678
+Respiratory distress syndrome	Respiratory distress	10038687
+Respiratory rate decreased	Respiratory rate decreased	10038710
+Respiratory rate increased	Respiratory rate increased	10038712
+Resulting in hyperglycemia	Hyperglycaemia	10020635
+Retrograde ejaculation	Retrograde ejaculation	10038967
+Risk spontaneous abortion increased	Abortion spontaneous	10000234
+Salivation	Salivary hypersecretion	10039424
+Salivation increased	Salivary hypersecretion	10039424
+Sarcoidosis	Sarcoidosis	10039486
+Schizophrenia	Schizophrenia	10039626
+Sedation	Sedation	10039897
+Seizure (when used as a BZD antidote)	Seizure	10039906
+Seizures	Seizure	10039906
+Serotonin syndrome	Serotonin syndrome	10040108
+Sexual dysfunction	Sexual dysfunction	10040477
+Skeletal muscle tremor	Tremor	10044565
+Skin rash	Rash	10037844
+Sleep apnoea	Sleep apnoea syndrome	10040979
+Sleep decreased	Insomnia	10022437
+Stereotypy	Stereotypy	10042008
+Sweating	Hyperhidrosis	10020642
+Sweating decreased	Hypohidrosis	10021013
+Syncope	Syncope	10042772
+Tachycardia	Tachycardia	10043071
+Teratogenicity	Teratogenicity	10043275
+Thrombosis	Thrombosis	10043607
+Tremor	Tremor	10044565
+Urinary hesitancy	Urinary hesitation	10046542
+Vasculitis	Vasculitis	10047115
+Vasoconstriction	Vasoconstriction	10047139
+Vasoconstriction of arteries	Vasoconstriction	10047139
+Vasodilatation	Vasodilatation	10047141
+Ventricular arrhythmia	Ventricular arrhythmia	10047281
+Ventricular fibrillation	Ventricular fibrillation	10047290
+Ventricular hypertrophy	Ventricular hypertrophy	10047295
+Visual disturbances	Visual impairment	10047571
+Vomiting	Vomiting	10047700
+Water retention in body	Fluid retention	10016807
+Water retention increased	Fluid retention	10016807
+Weakness	Asthenia	10003549

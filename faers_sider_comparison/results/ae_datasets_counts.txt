@@ -1,0 +1,22 @@
+Number of unique drugs (FAERS):	 1263
+Number of unique drugs (SIDER):	 1027
+Number of overlapping drugs:	 696
+Number of unique AEs (FAERS):	 2351
+Number of unique AEs (SIDER):	 117
+Number of AEs overlapping:	 1014
+Number of AEs specific to FAERS:	 2351
+Number of AEs specific to SIDER:	 117Number of unique drugs (FAERS):	 1263
+Number of unique drugs (SIDER):	 1027
+Number of overlapping drugs:	 696
+Number of unique AEs (FAERS):	 2351
+Number of unique AEs (SIDER):	 117
+Number of AEs overlapping:	 1014
+Number of AEs specific to FAERS:	 2351
+Number of AEs specific to SIDER:	 117Number of unique drugs (FAERS):	 1263
+Number of unique drugs (SIDER):	 1027
+Number of overlapping drugs:	 696
+Number of unique AEs (FAERS):	 2351
+Number of unique AEs (SIDER):	 117
+Number of AEs overlapping:	 1014
+Number of AEs specific to FAERS:	 2351
+Number of AEs specific to SIDER:	 117

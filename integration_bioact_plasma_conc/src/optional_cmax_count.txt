@@ -1,0 +1,22 @@
+use chembl_24_1;
+select max_phase, count(distinct parent_molregno) from (
+select distinct 
+hier.parent_molregno
+, act.molregno
+, md.pref_name
+, act.standard_type
+, act.standard_value
+, assays.description
+, md.max_phase
+from activities act
+join assays on assays.assay_id = act.assay_id
+join molecule_hierarchy hier on hier.molregno = act.molregno
+join molecule_dictionary md on hier.parent_molregno = md.molregno
+where act.standard_type = 'Cmax'
+and act.standard_flag = 1
+and act.standard_value is not NULL
+and (act.data_validity_comment != 'Outside typical range' or act.data_validity_comment is null)
+and assays.assay_cell_type is NULL
+and (assays.assay_tissue in ('Plasma', 'Blood', 'Serum') or assays.assay_tissue is NULL)
+and assays.assay_organism = 'Homo sapiens') mydata
+group by max_phase;

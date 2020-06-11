@@ -1,0 +1,22 @@
+# Files and folders #
+psm_aeolus/mysql_info.txt
+bioactivities/mysql_info_chembl.txt
+indications/data/MRCONSO_2019AA.RRF
+indications/data/all_aeolus_aes_hierarchy_output_22_1.xlsx
+indications/data/meddra_terms_indications_hierarchy_output_22_1.xlsx
+analysis/data/all_faers_and_sider_aes_hier_output.xlsx
+prev_reported_safety_associations/data/formatted_effects_WBB_hierarchy_output_inspected.xlsx
+prev_reported_safety_associations/data/safety_meddra_annotated_effects_for_hierarchy_output.xlsx
+prev_reported_safety_associations/data/formatted_effects_WBB_hierarchy_output.xlsx
+
+# Logs and databases #
+# ######################
+*.log
+*.sqlite
+*.db
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints
+*__pycache__*

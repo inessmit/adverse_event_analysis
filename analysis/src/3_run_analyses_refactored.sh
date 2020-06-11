@@ -1,0 +1,6 @@
+jupyter nbconvert --to script analysis_functions.ipynb
+jupyter nbconvert --to script run_analyses_refactored.ipynb
+chmod u+x analysis_functions.py
+chmod u+x run_analyses_refactored.py
+./run_analyses_refactored.py --colour_dict_dir 20200110_faers_unbound_margin_pred_005_PRR2 --colour_dict_filename colour_dict_20200110_faers.pkl --list_of_dirs 20200110_faers_unbound_margin_pred_005_PRR2,20200110_sider_unbound_margin_pred
+./run_analyses_refactored.py --colour_dict_filename colour_dict_20200110_faers.pkl --list_of_dirs 20191229_sider_unbound_margin,20191229_faers_unbound_margin_005_PRR2,20200110_faers_total_margin_pred_005_PRR2,20200110_faers_cutoff6_pred_005_PRR2,20191229_sider_unbound_margin,20200110_sider_total_margin_pred,20200110_sider_cutoff6_pred
